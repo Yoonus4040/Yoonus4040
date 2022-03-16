@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Yoonus4040
-- 👀 I’m interested Game Devlopment ...
-- 🌱 I’m currently learing javascript ...
+Hello I am Yoonus
+I got hooked into coding when I was 9 years 
+I also program using Python, Lua, HTML and CSS
