@@ -9,7 +9,7 @@ I am talented game developer and digital artist with a passion for creating imme
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-[![](https://img.shields.io/badge/Replit-0e1525?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@Yoonus4040)
+[![](https://img.shields.io/badge/Replit-f8640a?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@Yoonus4040)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
