@@ -1,4 +1,4 @@
-I am talented game developer and digital artist with a passion for creating immersive experiences that captivate and engage players. With a keen eye for detail and a deep understanding of the gaming industry, I have the skills and expertise to bring even the most ambitious concepts to life.
+I am talented game developer and digital artist with a passion for creating immersive experiences that captivate and engage players. With a keen eye for detail and a deep understanding of the gaming industry, I have the skills and expertise to bring even the most ambitious concepts to life. ✌🏽
 
 ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/sketchup-333344?style=for-the-badge&logo=sketchup&logoColor=white)
