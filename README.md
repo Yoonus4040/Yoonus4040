@@ -1,6 +1,6 @@
 # Howdy ✌🏽
 
-Howdy, mate! I'm a graphics designer and web developer hailing from the Maldives, where flip-flops are the epitome of formal wear. Picture me, coding away with a coconut in one hand and a keyboard in the other. When I'm not engaged in an epic battle with pixels, you'll likely find me persuading my computer not to take a spontaneous swim to cool off from overheating. I bring that laid-back island vibe to all my designs, making your website as cool as an ice cream on a scorching beach day. Let's turn your digital dreams into a tropical fiesta where the only bugs we encounter are the ones enjoying the sandy shores!
+Howdy, mate! I'm a graphics designer and web developer hailing from the Maldives, where flip-flops are the epitome of formal wear. Picture me, coding away with a coconut in one hand and a keyboard in the other. When I'm not engaged in an epic battle with pixels, you'll likely find me persuading my computer not to take a spontaneous swim to cool off. I bring that laid-back island vibe to all my designs, making your website as cool as an ice cream on a scorching beach day. Let's turn your digital dreams into a tropical fiesta where the only bugs we encounter are the ones enjoying the sandy shores!
 
 [![](https://img.shields.io/badge/Replit-f8640a?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@Yoonus4040)
 [![](https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://yoonus4040.itch.io)
