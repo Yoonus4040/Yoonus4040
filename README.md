@@ -37,11 +37,6 @@ Howdy, mate! I'm a graphics designer and web developer hailing from the Maldives
 [![](https://img.shields.io/badge/Yoonus4040-ef4040?style=for-the-badge&logo=lll&logoColor=white)](https://yoonus4040.com)
 [![](https://img.shields.io/badge/Art_gallery-f1f1f1?style=for-the-badge&logo=&logoColor=white)](https://yoonus4040.com/art)
 
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoonus4040&show_icons=true&theme=dark)
-
 ## Contact
 
 You can reach me at [Eunus4040@gmail.com](mailto:Eunus4040@gmail.com).
