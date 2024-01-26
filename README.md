@@ -37,8 +37,18 @@ Howdy, mate! I'm a graphics designer and web developer hailing from the Maldives
 [![](https://img.shields.io/badge/Yoonus4040-ef4040?style=for-the-badge&logo=lll&logoColor=white)](https://yoonus4040.com)
 [![](https://img.shields.io/badge/Art_gallery-f1f1f1?style=for-the-badge&logo=&logoColor=white)](https://yoonus4040.com/art)
 
+<img align="left" height="200" width="auto" src="https://github-readme-stats.vercel.app/api?username=yoonus4040&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=ef4040"><br/>
+<img align="left" height="200" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonus4040&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=ef4040"><br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=yoonus4040&theme=darcula&hide_border=true&background=FFFFFF00&title_color=ef4040">
+
+
 ## Contact
 
-You can reach me at [Eunus4040@gmail.com](mailto:Eunus4040@gmail.com).
+
+[Eunus4040@gmail.com](mailto:Eunus4040@gmail.com).
+<br>
+<a href="tel:+9609874040">+9609874040</a>
+<br>
+<a>Malé Maldives</a>
 
 
