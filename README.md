@@ -50,5 +50,7 @@ Howdy, mate! I'm a graphics designer and web developer hailing from the Maldives
 <a href="tel:+9609874040">+9609874040</a>
 <br>
 <a>Malé Maldives</a>
+<br>
+<a href="https://yoonus4040.com/CV/">Curriculum Vitae</a>
 
 
