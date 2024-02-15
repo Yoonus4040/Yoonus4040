@@ -45,6 +45,8 @@ Howdy, mate! I'm a graphics designer and web developer hailing from the Maldives
 ## Contact
 
 
+</body>
+
 [Eunus4040@gmail.com](mailto:Eunus4040@gmail.com).
 <br>
 <a href="tel:+9609874040">+9609874040</a>
